@@ -5,7 +5,7 @@
 ## About
 
 The game hasn't any name for now.
-[Game Name] is a solo-developed 2D action-adventure game. You play as a lone hero crossing three distinct environments in a classic hero's journey, fighting enemies with a parry/dodge combat system, upgrading gear at a merchant with real personality (like a RE4 and RE7 does), and facing down a final boss whose animation deliberately breaks the game's fluid motion.
+[Game Name] is a solo-developed 2D action-adventure game. You play as a lone hero crossing three distinct environments in a classic hero's journey, fighting enemies with a parry/dodge combat system, upgrading gear at a merchant with real personality (like a RE4 and RE8 does), and facing down a final boss whose animation deliberately breaks the game's fluid motion.
 
 This project is being built solo, from scratch, in Unity — including learning 3D character rigging and Animation Rigging from zero.
 
