@@ -18,7 +18,7 @@ This project is being built solo, from scratch, in Unity — including learning 
 ## Gameplay
 
 - **Movement**: run, jump (with coyote time & jump buffering), attack, dodge, parry
-- **Combat**: melee/frontal attacks are parryable, area attacks are dodge-only — enemies use scripted patterns, no heavy AI which would be really complicated for a first project
+- **Combat**: melee/frontal attacks are parryable, area attacks are dodge-only — enemies use scripted patterns, no heavy AI keeping the enemy behavior readable rather than needlessly complex 
 - **Progression**: XP-based leveling, multiple weapons, a merchant NPC with actual personality selling potions, armor, and trinkets
 - **Two balance profiles**: a full-featured PC build (dodge + parry, higher risk/reward) and a planned Mobile Lite version (simplified moveset, rebalanced stats) but for later on the Roadmap, the game needs to be finished first on PC
 
