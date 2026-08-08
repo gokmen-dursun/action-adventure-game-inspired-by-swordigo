@@ -1,6 +1,6 @@
 # action-adventure-game-inspired-by-swordigo
 
-> A 2D action-adventure game inspired by *Swordigo*, *Limbo*, and *Inside* — rigged 3D characters rendered as pure black silhouettes against colored, hand-painted backdrops.
+A 2D action-adventure game inspired by *Swordigo*, *Limbo*, and *Inside* — rigged 3D characters rendered as black silhouettes against colored, hand-drawn backdrops.
 
 ## About
 
