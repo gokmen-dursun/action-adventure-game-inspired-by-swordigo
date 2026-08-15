@@ -26,7 +26,7 @@ References: For the frames, I was inspired by Spider Man Across The Spider-verse
 
 Four zones leading into a final confrontation:
 
-Desert Canyon → "Normal Zone" → Jungle → Crystal Cave → Boss zone
+Desert Canyon → "Normal Zone (Grass field, plain)" → Jungle → Crystal Cave → Boss zone
 
 Each zone (plus the final boss zone) has its own hand-painted backdrop — 5 in total. A merchant hub sits somewhere along the route (tentatively between the jungle and the crystal cave). An intermediate boss caps the end of the normal zone, ahead of the final boss.
 
