@@ -43,7 +43,7 @@ Two balance profiles: a full-featured PC build (dodge + parry, higher risk/rewar
 4 enemy types, 2 bosses (intermediate + final)
 5 hand-painted backdrops (one per zone, plus a dedicated one for the final boss)
 3–4 weapons, 1–2 spells
-~1.5–2.5 hour playtime
+2-3 hour playtime
 Free vertical slice demo targeted for Steam Next Fest, then Early Access
 Tech Stack
 
