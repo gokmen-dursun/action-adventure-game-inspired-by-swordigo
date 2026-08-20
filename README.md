@@ -56,7 +56,7 @@ Primary dev machine: Desktop PC (RTX 4060 Ti 16GB, Ryzen 5 5600X, 32GB RAM)
 
 
 ## Roadmap
-Now → mid-Sept 2026: Learning Unity/C# fundamentals (Unity Essentials → Roll-a-Ball → Create with Code) before touching the actual project.
+Now → mid-Sept 2026: Learning Unity/C# fundamentals (Unity Essentials → Create with Code) before touching the actual project.
 Mid-Sept 2026: Start of actual Emberhood development — first 2–3 months focused on technical prototyping (rig, silhouette shader, movement feel).
 ~May 2027: Free vertical slice demo targeting Steam Next Fest — polished Canyon → Zone normale transition, full movement/combat system, 1–2 enemy types, hero silhouette readable in motion.
 ~Jan 2028: Early Access launch, followed by full launch.
